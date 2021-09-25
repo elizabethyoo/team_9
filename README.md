@@ -1,4 +1,4 @@
-# Impact of COVIS19 on Small Business and Entrepreneurship 
+# Impact of COVID19 on Small Business and Entrepreneurship 
 DS4A/Women Group 9 Project
 
 ## Overview of Problem and Why it Matters
