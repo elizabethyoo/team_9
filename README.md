@@ -13,3 +13,6 @@ This investigation will examine the different factors that affected small busine
 This project is based on two main datasets - the Small Business Pulse Survey (SBPS) and the Household Pulse Survey(HPS) conducted weekly by the US Census Bureau from May 2020 to the present date. The SBPS data is available as collapsed summary statistics by state, large city, sector, sub sector, and business size. In contrast, the HPS microdata has respondent level survey data. Both of the data sets are large - covering thousands of businesses and households per week. However, due to the collapsed nature of the SBPS data, we will not be able to look at factors that influence individual businesses, but instead can look at statewide or industry wide factors.
 
 Additionally, we will be gathering unemployment data provided by the US Bureau of Labor Statistics. This data will be used as an unbiased source of unemployment data which is a feature to be explored for potential relationships with recovery rate. 
+
+Final Datafolio for the Project
+![TEAM_9_DATAFOLIO](https://user-images.githubusercontent.com/10517323/140938381-3b3e3867-ca4b-41ac-8e7b-c5a3877ea184.png)
