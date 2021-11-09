@@ -5,6 +5,9 @@ Most businesses (99.7%) in the US are small businesses, which collectively emplo
 
 This report examines the different factors influencing US small business recovery during the pandemic, including coronavirus-related related and socioeconomic factors at the national and state level. Identifying these relationships will enable policymakers to focus on critical areas of improvement to support small business recovery in their cities and states. Companies can also utilize these insights to navigate the current economic landscape more successfully.
 
+<img src = "https://user-images.githubusercontent.com/10517323/140939881-6dc319cf-0b33-4575-a38a-eeecc699b339.png" align = "center" width = "480">
+Data from US Census and the World Economic Forum
+
 # Datasets
 
 ## Overview
